@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Arabic Trader Training Center </title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<link rel="stylesheet" type="text/css" href="css/index.css" />
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+
+
+
+</head>
+
+<body>
+<div class="wrapper">
+<!-- HEADER-->
+<div class="top-strip">
+	
+	<div class="container">
+		
+		<div class="row">
+			
+			<div class="span8">
+			<a class="site-btn pull-right">شركة المتداول العربي<span></span></a>
+			<a class="site-btn pull-right site-btn-current">مركز تدريب المتداول العربي <span></span></a>
+			</div>
+			
+			<div class="span4" >
+				
+				<ul class="pull-right secondary-nav ">
+					<li class="dropdown">
+					<a class="dropdown-toggle lang" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" data-close-others="false" href="#">
+					عربي <span class="ar"></span> <b class="caret"></b>
+					</a>
+					
+					</li>
+					<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+					تسجيل الدخول <b class="caret"></b>
+					</a>
+					</li>
+				</ul>
+				
+				<div class="span1 marg-T10px text-left">
+				<a class="contact"></a>
+				<span class="support-border"></span>
+				<a class="support"></a>
+				</div>
+			</div>
+		
+		</div>
+	</div>
+
+</div>
+
+<div class="clearfix"></div>
+<div class="navbar">
+<div class="navbar-inner">
+<div class="container">
+<div class="row ">
+<div class="span6 ">
+<a class="brand">
+<img src="img/AT-logo.jpg" width="280" height="64" /> </a>
+</div>
+<div class="span6">
+<div class="search-header pull-left">
+<input type="text" value=""  class="search-input"/>
+<input type="button" value="" class="search-header-icon" />
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="row ">
+<div class="span12 navigation nav-collapse">
+<ul class="nav">
+<li><a href="#" class="nav-current">الرئيسية</a></li>
+<li><a href="#"> دورات تدريبية</a></li>
+<li><a href="#">عروض</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" data-close-others="false" > 
+تعلم الفوركس <span></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" data-target="#" >
+                  <li><a href="#" tabindex="-1">الاكادميه</a></li>
+                  <li><a href="#" tabindex="-1">مركز التدريب</a></li>
+                  <li><a href="#" tabindex="-1">فتح حساب حقيقي</a></li>
+                  </ul>
+
+</li>
+<li><a href="#">خدماتنا <span></span></a></li>
+<li><a href="#">الشراكة معنا <span></span></a></li>
+<li><a href="#">عن المركز</a></li>
+<li><a href="#">المساعدة <span></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- End HEADER-->
+<!--Main-Content-->
+<div class="container pad-container">
+<div class="row">
+<!--Right-said-->
+<div class="span8 pull-right">
+<div class="gallary marg-B30">
+<img src="img/slide-1.jpg" />
+</div>
+<div class="clearfix"></div>
+<h1><span>مجموعات كورسات المتداول العربى</span></h1>
+<div class="accordion" id="accordion2">
+<div class="accordion-group">
+<div class="accordion-heading">
+<a class="accordion-toggle current-tab" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+كورسات تعليم الفوركس<span ></span>
+</a>
+</div>
+<div id="collapseOne" class="accordion-body collapse in">
+<div class="accordion-inner">
+<p>حساب حقيقي بنصف قيمة الدورة هدية للتطبيق العملي بعد الدورة.شهادة اجتياز الدورة معتمدة من شركةالمتداول العربي للخدمات  لنظام الوبرنامج التحليل الفني.استراتيجية عمل واضحة للتطبيق عليها في المتاجرة.
+حساب حقيقي بنصف قيمة الدورة هدية للتطبيق العملي بعد الدورة.شهادة اجتياز الدورة معتمدة من شركةالمتداول العربي للخدمات  لنظام الوبرنامج التحليل الفني.استراتيجية عمل واضحة للتطبيق عليها في المتاجرة.
+</p>
+<div class="clearfix"></div>
+<div class="span4 marg-R0">
+<div class="blockquote">
+<h3>كيفبه البدء؟</h3>
+<p>حساب حقيقي بنصف قيمة الدورة هدية للتطبيق العملي بعد الدورة.شهادة اجتياز الدورة معتمدة من شركةالمتداول العربي للخدمات  لنظام الوبرنامج التحليل الفني.استراتيجية عمل واضحة للتطبيق عليها 
+العملي بعد الدورة.شهادة اجتياز الدورة معتمدة عليها في المتاجرة.
+</p>
+</div>
+</div>
+<div class="span4">
+<div class="blockquote">
+<h3>لماذا تعلم؟</h3>
+<p>حساب حقيقي بنصف قيمة الدورة هدية للتطبيق العملي بعد الدورالعملي بعد الدورة.شهادة اجتياز الدورة معتمدة من ة.شهادة اجتياز الدورة معتمدة من 
+
+</p>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="span4 marg-R0">
+<h3>ماهى الكورسات الموجوده بالمجموعه؟</h3>
+<ul class="unstyled link-list" >
+<li><a href="#">فوركس</a></li>
+<li><a href="#">البتنجان</a></li>
+<li><a href="#">المتاجره الفوريه</a></li>
+</ul>
+</div>
+<a href="#" class="start-course pull-left" ></a>
+<div class="clearfix"></div>
+</div>
+</div>
+
+</div>
+<div class="accordion-group">
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+كورسات تعليم الفوركس<span></span>
+</a>
+</div>
+<div id="collapseTwo" class="accordion-body collapse">
+<div class="accordion-inner">
+Anim pariatur cliche...
+</div>
+</div>
+</div>
+<div class="accordion-group">
+<div class="accordion-heading">
+<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+كورسات تعليم الفوركس<span></span>
+</a>
+</div>
+<div id="collapseTwo" class="accordion-body collapse">
+<div class="accordion-inner">
+Anim pariatur cliche...
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="clearfix"></div>
+</div>
+
+<!--END Right-said-->
+<!--LEFT SIDE-->
+<div class="span4 pull-right">
+<div class="left-side">
+<h1>الطلب السريع للدورات التدريبيه</h1>
+<div class="get-quote marg-B30">
+<form>
+<select class="input select">
+<option>اختر الدوره التدريبيه</option>
+<option>اساسيات الفوركس</option>
+<option>سوق العمبلت</option>
+</select>
+<input type="text" value="الاسم" class="input" />
+<input type="text" value="الاميل" class="input" />
+<input type="text" value="الجوال" class="input tel-input pull-right" />
+<input type="text" value="020" class="input tel-code pull-right" />
+
+<select class="input select">
+<option>مدينة الحصول على الدوره</option>
+<option>اساسيات الفوركس</option>
+<option>سوق العمبلت</option>
+</select>
+<input type="submit" value="تسجيل" class="button pull-left" />
+<div class="clearfix"></div>
+</form>
+</div>
+<div class="clearfix"></div>
+<h1>احدث الكورسات</h1>
+<ul class="unstyled latest-course " >
+<li><a href="#"><strong>كورس تعيم الفوركس الاحترافى </strong><span class="more-courses pull-left"></span></a></li>
+<li><a href="#"><strong >كورس تعيم الفوركس</strong> <span class="more-courses pull-left"></span></a></li>
+<li><a href="#"><strong > تعيم الفوركس</strong> <span class="more-courses pull-left"></span></a></li>
+</ul>
+<a href="#" class="more pull-left"> المزيد</a>
+<div class="clearfix marg-B30"></div>
+<h1></h1>
+<div class="live-support marg-B30"> 
+<a href="#"> <img src="img/support.jpg" /></a> </div>
+<div class="clearfix"></div>
+<h1></h1>
+<div class="social-div marg-B30 text-left" >
+<a href="#" class="fac-icon"></a>
+<a href="#" class="twitter-icon"></a>
+<a href="#" class="utube-icon"></a>
+<a href="#" class="ress-icon"></a>
+<span class="clearfix border-gray"></span>
+<span class="fac-like"><img src="img/twitter.jpg" /></span>
+<span class="twitter-follow"><img src="img/fac.jpg" /></span>
+</div>
+<div class="clearfix"></div>
+<h1>مقر المركز</h1>
+<div class="adress marg-B30">
+<p>طريق الملك عبدالله، حي صلاح الدين ، الرياض
+ المملكة العربية السعودية</p>
+<img src="img/map.jpg" width="262" height="83" />
+</div>
+</div>
+</div>
+<!--END LEFT SIDE-->
+</div>
+</div>
+<!--END Main-Content-->
+
+</div>
+
+<!-- FOOTER-->
+<div class="footer">
+<div class="container">
+
+<div class="row">
+<h1><span class="pull-left"></span></h1>
+<div class="span8">
+<ul class="unstyled sitemap">
+<li>
+  <h1>الرئيسيه</h1></li>
+<li><h1>الكورسات</h1>
+<ul class="unstyled">
+<li><a href"#">الكورسات</a></li>
+<li><a href="#">الكورسات فوركش</a></li>
+<li><a href="#">الكورسات</a></li>
+
+</ul>
+</li>
+<li>
+<h1>الخدمات</h1>
+<ul class="unstyled">
+<li><a href"#">الكورسات</a></li>
+<li><a href="#">الكورسات فوركش</a></li>
+<li><a href="#">الكورسات</a></li>
+<li><a href"#">الكورسات</a></li>
+<li><a href="#">الكورسات فوركش</a></li>
+</ul>
+</li>
+<li>
+<h1>تعلم الفوركس</h1>
+<ul class="unstyled">
+<li><a href"#">الكورسات</a></li>
+<li><a href="#">الكورسات فوركش</a></li>
+<li><a href="#">الكورسات</a></li>
+
+</ul>
+</li>
+<li><h1>الشــركاء</h1></li>
+<li><h1>عن الاكلديميه</h1></li>
+</ul>
+</div>
+<div class="span4">
+<div class="contact-links">
+<h1>للحصوا على <span class="blue">مساعده</span></h1>
+<ul class="unstyled">
+<li><a href="#"><span class="support-icon"></span>المحادثـة الفوريه</a></li>
+<li><a href="#"><span class="phon-icon"></span>009 6654 0437 994 </a></li>
+<li><a href="#"><span class="mail-icon"></span>اتصــل بنــا </a></li>
+</ul>
+</div>
+</div>
+<div class="span6 bank">
+<span class="bank-logo pull-right"></span>
+<p>عمليات الدفع بالبطاقات تتم من خلال بوابة البنك العربي الأفريقي الدولي
+ مما يجعلها امنة 100%</p>
+<span class="bank-card"></span>
+</div>
+<div class="span6">
+<ul class="unstyled footer-link" >
+<li><a href="#">تحزير مخاطره</a>|</li>
+<li><a href="#">تحزير مخاطره</a>|</li>
+<li><a href="#">حقوق الملكية </a>|</li>
+<li><a href="#">شروط الاستخدام</a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="span12 coppy-right">
+
+<p>arabic trader 2012© حقوق الملكية </p>
+</div>
+</div>
+</div>
+</div>
+<!--END FOOTER-->
+
+</body>
+</html>
